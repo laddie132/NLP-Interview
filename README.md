@@ -3,6 +3,17 @@ NLP算法岗-面试知识点
 
 [TOC]
 
+> 前言
+>
+> 推荐使用Typora打开，阅读效果更好。
+>
+> 推荐参考书籍如下：
+>
+> - 《统计学习方法（第2版）》- 李航
+> - 《Deep Learning》- Ian Goodfellow等
+> - 《机器学习》- 周志华
+> - 《百面机器学习》- 诸葛越等
+
 ## 一、基础算法
 
 - Hashmap、Trie树
@@ -171,3 +182,10 @@ NLP算法岗-面试知识点
 - DQN、Double DQN、Dueling DQN
 - 经验池回放机制（优先队列）
 - Policy Gradient方法：REINFORCE、Actor Critic框架
+
+## 致谢
+
+- 机器学习500问：https://github.com/scutan90/DeepLearning-500-questions
+- AI算法岗求职攻略：https://github.com/amusi/AI-Job-Notes
+- 深度学习面试宝典：https://github.com/amusi/Deep-Learning-Interview-Book
+- 算法工程师面试：https://github.com/PPshrimpGo/AIinterview
